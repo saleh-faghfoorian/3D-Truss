@@ -44,7 +44,8 @@ you should enter your elements information in this format :
 ## Sample
 
 ![Sample Image](http://8upload.ir/uploads/f515952344.png)
-Report :
+
+## Report
 ```
 Element Number		   Force(N)		Force-Type	     Displacement	      Stress			  FS
 0			   1860.43 N		Tension			0.00 mm		      0.25 MPa			947.36
