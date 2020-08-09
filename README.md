@@ -43,7 +43,7 @@ you should enter your elements information in this format :
 
 ## Sample
 
-![Sample Image](http://8upload.ir/uploads/f9008150.png)
+![Sample Image](http://8upload.ir/uploads/f515952344.png)
 * Report :
 ```
 Element Number		   Force(N)		Force-Type	     Displacement	      Stress			  FS
