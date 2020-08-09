@@ -41,8 +41,7 @@ you should enter your elements information in this format :
 * 2nd diagram is the force of each element.(elements which haven't diagram, are zero members)
 
 ## Sample
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://ibb.co/Jy0vb9J)
+![Sample Image](https://ibb.co/Jy0vb9J)
 
 ## Developers
 * **Saleh Faghfoorian** [Saleh Faghfoorian](https://github.com/saleh-faghfoorian)
