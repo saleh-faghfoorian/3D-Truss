@@ -39,12 +39,13 @@ you should enter your elements information in this format :
 * Also you have 2 diagrams.
 * 1st diagram is the truss view in (3D cartesian coordinate system)
 * 2nd diagram is the force of each element.(elements which haven't diagram, are zero members)
-```
+
 
 ## Sample
-```
+
 ![Sample Image](http://8upload.ir/uploads/f9008150.png)
 * Report :
+```
 Element Number		   Force(N)		Force-Type	     Displacement	      Stress			  FS
 0			   1860.43 N		Tension			0.00 mm		      0.25 MPa			947.36
 1			   2334.25 N		Tension			0.00 mm		      0.31 MPa			755.06
