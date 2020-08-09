@@ -40,5 +40,9 @@ you should enter your elements information in this format :
 * 1st diagram is the truss view in (3D cartesian coordinate system)
 * 2nd diagram is the force of each element.(elements which haven't diagram, are zero members)
 
+##Sample
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://ibb.co/Jy0vb9J)
+
 ## Developers
 * **Saleh Faghfoorian** [Saleh Faghfoorian](https://github.com/saleh-faghfoorian)
