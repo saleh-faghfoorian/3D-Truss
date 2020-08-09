@@ -41,7 +41,7 @@ you should enter your elements information in this format :
 * 2nd diagram is the force of each element.(elements which haven't diagram, are zero members)
 
 ## Sample
-![Sample Image](<a href="http://8upload.ir/"><img src="http://8upload.ir/uploads/f9008150.png" border="0" alt="هشت آپلود" title="هشت آپلود" /></a>
+![Sample Image](http://8upload.ir/uploads/f9008150.png)
 
 ## Developers
 * **Saleh Faghfoorian** [Saleh Faghfoorian](https://github.com/saleh-faghfoorian)
