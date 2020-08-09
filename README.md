@@ -136,5 +136,9 @@ Minimum Fator of Safety for the elements of this truss is = 38.37
 
 Numner of types of materials used in the elements is = 1
 ```
+## Force Diagram
+
+![Sample Image](http://8upload.ir/uploads/f1096174.png)
+
 ## Developers
 * **Saleh Faghfoorian** [Saleh Faghfoorian](https://github.com/saleh-faghfoorian)
