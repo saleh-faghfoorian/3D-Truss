@@ -43,7 +43,7 @@ you should enter your elements information in this format :
 
 ## Sample
 
-![Sample Image](https://www.linkpicture.com/view.php?img=LPic5f74708018de8973481260)
+![Sample Image](https://www.linkpicture.com/q/truss_1.png)
 
 ## Report
 ```
