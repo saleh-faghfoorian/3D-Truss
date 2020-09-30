@@ -43,7 +43,7 @@ you should enter your elements information in this format :
 
 ## Sample
 
-![Sample Image](http://8upload.ir/uploads/f515952344.png)
+![Sample Image](https://ibb.co/3vg3DgM)
 
 ## Report
 ```
@@ -139,7 +139,7 @@ Numner of types of materials used in the elements is = 1
 ```
 ## Force Diagram
 
-![Sample Image](http://8upload.ir/uploads/f1096174.png)
+![Sample Image](https://ibb.co/4KJ059v)
 
 ## Developers
 * **Saleh Faghfoorian** [Saleh Faghfoorian](https://github.com/saleh-faghfoorian)
