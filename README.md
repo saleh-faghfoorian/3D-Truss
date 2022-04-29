@@ -139,7 +139,7 @@ Numner of types of materials used in the elements is = 1
 ```
 ## Force Diagram
 
-![Sample Image](https://www.linkpicture.com/q/Force-Diagram.png)
+![Sample Image](https://i.postimg.cc/vHjQSC6X/Force-Diagram.png)
 
 ## Developers
 * **Saleh Faghfoorian** [Saleh Faghfoorian](https://github.com/saleh-faghfoorian)
